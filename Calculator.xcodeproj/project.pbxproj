@@ -157,7 +157,7 @@
 				};
 			};
 			buildConfigurationList = 4646A72E2C3BFDCC0003B288 /* Build configuration list for PBXProject "Calculator" */;
-			compatibilityVersion = "Xcode 15.0";
+			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
